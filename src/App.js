@@ -8,7 +8,7 @@ function App(props) {
       <header className="App-header">
         <Dinner dishName="Biryani" sweetDish="Kheer"/>
         <hr/>
-        <Dinner dishName="korma" sweetDish="gajar ka halwa"/>        
+        <Dinner dishName="Tika" sweetDish="gajar ka halwa"/>        
         <hr/>
         <Dinner teachers=""/>
       </header>
