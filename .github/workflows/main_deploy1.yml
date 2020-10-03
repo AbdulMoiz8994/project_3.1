@@ -39,6 +39,6 @@ jobs:
         run: npm install -g surge
        
       - name: deploying on surge
-        run: surge ./build cool-tomatoes.surge.sh --token ${{ secrets.SURGE_TOEKN6 }} 
+        run: surge ./build cool-tomatoes.surge.sh --token ${{ secrets.SURGE_TOKEN8 }} 
           echo Add other actions to build,
           echo test, and deploy your project.
